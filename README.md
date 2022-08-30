@@ -1,7 +1,7 @@
 # delta
-    ###[Description]
+    ### [Description]
     omega
-    ###[Installation]gamma
+    ### [Installation]gamma
     *[Useage]undefined
     *[Contribution]alpha
     *[license] (ISC)
